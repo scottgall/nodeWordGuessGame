@@ -1,7 +1,7 @@
 # nodeWordGuessGame
 
 ## Description
-* Word guess game as a node app using npm inquirer package.
+* Word guessing game as a node app using npm inquirer.
 
 ## Execution
-* Within the directory fun the node command 'node index.js'.
+* Within the nodeWordGuessGame directory run the following command in your terminal: ```node index.js```
