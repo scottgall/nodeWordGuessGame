@@ -5,4 +5,4 @@
 * NPM inquirer interface.
 
 ## Execution
-* Within the nodeWordGuessGame directory run the following command in your terminal: ```node index.js```
+* Within the nodeWordGuessGame directory in your terminal, run ```node index.js```
